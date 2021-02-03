@@ -1,0 +1,17 @@
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\ConsoleApp.Client.exe
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\ConsoleApp.Client.deps.json
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\ConsoleApp.Client.runtimeconfig.json
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\ConsoleApp.Client.runtimeconfig.dev.json
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\ConsoleApp.Client.dll
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\ConsoleApp.Client.pdb
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\honey\source\repos\Oidc\Console.Client\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\honey\source\repos\Oidc\Console.Client\obj\Debug\netcoreapp3.1\ConsoleApp.Client.csprojAssemblyReference.cache
+C:\Users\honey\source\repos\Oidc\Console.Client\obj\Debug\netcoreapp3.1\ConsoleApp.Client.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\Oidc\Console.Client\obj\Debug\netcoreapp3.1\ConsoleApp.Client.AssemblyInfo.cs
+C:\Users\honey\source\repos\Oidc\Console.Client\obj\Debug\netcoreapp3.1\ConsoleApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\Oidc\Console.Client\obj\Debug\netcoreapp3.1\ConsoleApp.Client.csproj.CopyComplete
+C:\Users\honey\source\repos\Oidc\Console.Client\obj\Debug\netcoreapp3.1\ConsoleApp.Client.dll
+C:\Users\honey\source\repos\Oidc\Console.Client\obj\Debug\netcoreapp3.1\ConsoleApp.Client.pdb
+C:\Users\honey\source\repos\Oidc\Console.Client\obj\Debug\netcoreapp3.1\ConsoleApp.Client.genruntimeconfig.cache
